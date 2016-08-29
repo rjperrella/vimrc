@@ -1,3 +1,4 @@
+# -- THIS PROGRAM DOES NOT WORK - DO NOT USE --
 
 # Pure Windows Powershell program to pull down my _vimrc file.
 #
