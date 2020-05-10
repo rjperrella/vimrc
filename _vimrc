@@ -9,6 +9,10 @@ set ruler
 " always show status bar
 set laststatus=2
 set number
+" nice wordwrap settings
+set nowrap
+set sidescroll=5
+set listchars+=precedes:<,extends:>  
 "
 " ***** Search *****
 "
@@ -22,7 +26,6 @@ set expandtab
 set smarttab
 set fileformats=unix,dos
 set visualbell
-set nowrap
 " 40 millisecond flash
 "set t_vb="|40f"
 syntax on
