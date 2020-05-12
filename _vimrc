@@ -13,6 +13,15 @@ set number
 set nowrap
 set sidescroll=5
 set listchars+=precedes:<,extends:>  
+" Memory Management
+set noswapfile
+set nobackup
+set undodir=~/.vim/undodir
+set undofile
+"
+" I like modelines
+"
+set modeline
 "
 " ***** Search *****
 "
