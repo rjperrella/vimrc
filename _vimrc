@@ -23,12 +23,16 @@ set incsearch
 set tabstop=4
 set shiftwidth=4
 set expandtab
-set smarttab
+set smartindent
 set fileformats=unix,dos
 set visualbell
 " 40 millisecond flash
 "set t_vb="|40f"
 syntax on
+set updatetime=50
+set cmdheight=2
+set shortmess+=c
+set colorcolumn=80
 "
 " CUA-style function keys (inspired by to IBM XEDIT)
 "
