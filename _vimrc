@@ -43,7 +43,7 @@ set cmdheight=2
 set shortmess+=c
 set colorcolumn=80
 "
-" CUA-style function keys (inspired by to IBM XEDIT)
+" CUA-style function keys (inspired by IBM XEDIT/E3)
 "
 nmap <F2> :w!<CR>
 nmap <F3> :q<CR>
